@@ -8,4 +8,4 @@ I downloaded a list of tokens with their name and address into the tokens.json f
 
 I used mainly this address used for testing on the ethereum because it has multiple tokens: 0x6b175474e89094c44da98b954eedeac495271d0f
 
-Please note that you need an infura API key in your .env file, for ethereum mainnet a free account is enough but for polygon and arbitrum you need a premium account.
+Please note that you need an infura API key in your .env file, for ethereum mainnet a free account is enough but for polygon and arbitrum you need a premium account. You will also need a CoinMarketCap API key, a free account is enough.
