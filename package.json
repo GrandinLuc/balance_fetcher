@@ -1,0 +1,20 @@
+{
+  "name": "multis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "node build/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eth-balance-checker": "^0.2.0",
+    "web3": "^1.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.23"
+  }
+}
