@@ -1,4 +1,4 @@
-# Multis technical test
+# Balance fetcher
 
 For this project I am using the [Infura](https://infura.io/) API to get the blockchain data and the [CoinMarketCap](https://coinmarketcap.com) API to get the tokens and coin prices.
 
